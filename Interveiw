@@ -1,1 +1,216 @@
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Template Name: Realistic
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>The Tech Tops</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="layout/styles/layout.css" type="text/css" />
+<script type="text/javascript" src="layout/scripts/jquery.min.js"></script>
+<!-- Superfish Menu -->
+<script type="text/javascript" src="layout/scripts/superfish/jquery.hoverIntent.js"></script>
+<script type="text/javascript" src="layout/scripts/superfish/superfish.js"></script>
+<script type="text/javascript">
+jQuery(function () {
+    jQuery('ul.nav').superfish();
+});
+</script>
+<!-- / Superfish Menu -->
+</head>
+<body id="top">
+<div class="wrapper">
+  <div id="header">
+    <h1><a href="index.html">The Tech Tops</a></h1>
+    <p>Team Project </p>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="topbar">
+
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="topnav">
+    <ul class="nav">
+      <li><a href="index.html">Homepage</a></li>
+      <li><a href="teamprofile.html">Team Profile</a></li>
+      <li><a href="idealjobs.html">Ideal Jobs</a></li>
+      <li class="active"><a href="#">IT Technologies</a>
+        <ul>
+          <li class="active"><a href="cyber.html">Cyber</a></li>
+          <li><a href="automachines.html">Auto Machines</a></li>
+          <li><a href="machinelearning.html">Machine Learning</a></li>
+          <li><a href="clouds.html">Clouds</a></li>
+        </ul>
+      </li>
+      <li><a href="#">Project</a>
+     <ul>
+       <li><a href="Overview.html">Overview and Motivation</a></li>
+       <li><a href="Description.html">Description</a></li>
+       <li><a href="TechsandSkills.html">Tools/Techs and Skills</a></li>
+       <li><a href="Outcome.html">Outcome</a></li>
+     </ul>
+      <li><a href="reflection.html">Group Reflection</a></li>
+    </ul>
+    <div class="clear"></div>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div class="container">
+    <div class="whitebox" id="hpage_services">
+      <div class="block"><h1 style=color:black;><big><b> IT Interveiw Transcript  </big></b></h1>
+	  <section>
+      
+      
+								<b><big> Matthew Plazina 
+                                </big></b>
+										<br> 
+										The interview was conducted with Matthew Plazina (Matt). Matt is one of our group members for Introduction to IT. Jarrah and Lachlan were extremely excited to sit down with Matt virtually to gather a better understanding of life in the IT work force.
+										<br>
+										<br>
+										<b>Please tell us about your IT work. What exactly do you do?</b>
+										<br>
+										
+  
+Matt works as an IT system technician for the Australian Defence Force, his day to day job revolves mainly around system administration and networking. Some examples of work Matt has to do on a daily basis may include;server maintenance, user creation, enforcing policies, general server administration, and education for users. 
+
+<br>
+<br>
+	<b>Please tell us about the industry you work in.</b>		
+<br>
+As we know the IT industry is forever changing. When Matthew first commenced his job at the Defence Force in 2014 the application used were Windows server 2003 and windows XP. Although Windows server and XP worked and accommodated for the needs of the defense force windows unfortunately cut support to the applications. This required the defense force to implement to change and adapt to new software. His team now uses window server 2016 with a hope to transition to windows server 2019 in the next 12 months.
+ Matthew explained changing software was a challenging but great eye-opening process. In IT it is important to use a software that is in a range where it is well supported by whoever is producing it.
+ 
+<br>
+<br>
+	<b>What other kinds of work do you have to do?</b>	
+    
+<br>
+Matt has many tasks which may be assigned to him, currently at the time of the interview, Matt has been setting up a whole new system and setup at work. This has required Matt to get all the equipment in, making sure all the parts and equipment is there, breaking them down into locations of where they will go and delegate to others, who will install the hardware/software. Matt also has to set up backups in regards to where and when data will be backed up, he will set these up incrementally to back up daily, weekly, and monthly. Once set up, the main focus is maintenance, making sure there's enough space for hosts, the updates are coming through and that users are abiding by the policies set in place. If something does go wrong, Matt needs to fix it to a certain standard before you can push it out to be accessed by the users.
+							</section>
+								<br>
+							<section>
+									<b><big>Who are all the different people you interact with in your work? Please tell us about
+them.</big></b>
+										<br>
+		(Please note the name Level 1, Level 2 and Level 3 have been added by the writer to help differentiate each area of the work force. Matt did not give these descriptions)
+        <br><br> Matt's work is known to be the general admin IT area (level 1). The people that Matt work with all have different strengths that they excel in. These different areas include
+- exchange 
+<br><br>
+-  Admin 
+<br><br>
+-  Skype for business
+<br><br>
+- Policy 
+<br><br>
+His colleagues that are a level above him specify in aside administrator (level 2). This work can include taking care of a sight in a specific area and reporting incidents and change of requests to their superiors (level 3).
+Above level 2 is level 3. Members of level 3 are individuals who look after a much bigger area such as a state. Level 3 take care of how a policy will work and how it is implemented. This policy is then given to level 2 then to level 1.
+<br>
+<br>
+	<b>Please tell us about the industry you work in.</b>		
+<br>
+										<br><br>
+					
+										<br><br>
+							</section>
+							<section>
+										<b><big>What technological or other developments make this possible?</big></b>
+										<br>
+									<b>The technology that currently makes Cyber security possible is the likes of: </b>
+										<br>
+										- Cameras (Infrared, Night-vision, etc)
+										<br>
+										- Tool-based security (Anti-Malware, Spam detectors, etc)
+										<br>
+										- Programming and programmers dedicated to cyber security
+										<br><br>
+									<b>The technology that is being implemented into cyber security measures now are:</b>
+										<br>
+										- AI and Machine Learning (Monster Mind, etc
+										<br>
+										- Cloud based security measures (Security Assertion Markup Language, etc
+										<br>
+										- NetAPT (Software for mapping control system pathways)
+
+							</section>
+
+      </div>
+      <div class="block"><h1 style=color:black;><big><b>What is the likely impact? </big></b></h1>
+        <section>
+								<b><big>What is the potential impact of this development?</big></b>
+										<br>
+										The world is more technologically reliant than ever before. The impact on the advancement in technology is undeniable and advancing at faster rate than anyone could have anticipated.
+										<br><br>
+										Cyber Attacks are estimated to occur 2244 times per day as of this current year 2020.Cyber security acts as the only measure to prevent online fraud and helps in risk management. This has tremendous impacts on society such as anxiety, loss of confidence in technology, financial loss, stress, loss of reputation for a business, massive fines can occur if business get caught out.
+										<br><br>
+								<b><big>What is likely to change</big></b>
+										<br>
+										Already more and more companies are switching to virtual desktops. COVID 19 has also had an impact as this year has seen a massive boom in remote workers operating outside of the safety of a corporate network.
+										<br><br>
+										Currently what is mostly used by business is two-factor authentication. Now with more workers working from home with this expecting to continue as a new way of live. The employees of organisations are now being targeted to gain access. We have already seen a rise in biometric authentication, and this is expected to rise. Biometric authentication is fingerprint. Thumbprint retina, iris, voice, or other facial recognition technology.
+										<br><br>
+								<b><big>Which people will be most affected and how?</big></b>
+										<br>
+										I think businesses will most effected and those in the company's cyber security roles. Cyber security is a massive topic to cover as there are many, many various technologies that go into it. Machine learning and artificial intelligence has made companies cyber security more effective and successful. However, with machine learning and artificial intelligence breaking into computers and systems has also become so easy. Companies in the past has spent a lot of effort, resources and money figuring out their organisations network topography. With the use of AI expediting this process by observing and learning network traffic patterns and recommending security policies this elevates a lot of the above and allows a company to use its people in more productive areas.
+										<br><br>
+								<b><big>Will this create, replace or make redundant any current jobs or technologies?</big></b>
+										<br>
+										Now that cybercrime have begun using AI as part of their attack strategies, it's become imperative that businesses and individuals stay one step ahead. human analysts will no longer be able to fend off on their own against the extremely sophisticated attacks.
+										<br>
+										The Printing and publishing industry already have seen a massive declined and in the next 10 years expected to be non-existent.
+										<br>
+										Cashiers at supermarkets, banks etc. We have once again seen a massive decrease in this type of work with the likes of self-serve checkouts. And once again due to COVID 19 changing the world as we know it has also speed things up due to not wanting human contact due to the risk of contracting the virus.
+							</section>
+								      </div>
+      <div class="block last"><h1 style=color:black;><big><b>How will this affect you? </big></b></h1>
+        <section>
+								<b><big>How will this affect you daily?</big></b>
+										<br>
+										Artificial intelligence makes our lives more efficient. AI powers many programs and services that help us do everyday things like connecting with friends, using an email program or even taking a uber like ride share service.
+										<br><br>
+								<b><big>What will be different for you?</b></big>
+										<br>
+										Last year I had $1000 transferred to account without my authority. I did not know the receiver nor authorize this amount. The bank or the police were not able to do anything. Because of experiencing being hacked myself. I looked at all the situations that could improve my security. I often used the same passwords for multiple accounts. The passwords I did have where somewhat basic as I never had taken cybercrime seriously, now I also do not look on untrustworthy websites. I updated my phone, so I must unlock it with my face or passcode, and I also updated my laptop to start requiring my fingerprint on start-up.
+										<br><br>
+								<b><big>How might this affect members of your family or your friends?</big></b>
+										<br>
+										One of my friends started his own painting company about 1-2 years ago. He not only works with a lot of private customers but also with other companies enlisting his services. He completed work for one company and sent them an invoice. He began chasing the company for payment only to be told he had already been paid. He checked bank through his bank statements and could not find payment. The business provided proof that the payment had been made. What had happened was a hacker changed the bank details on the top the invoice sent by my friend and the company paid into the incorrect account by no fault of their own. 6 months later my friend has not been able to get back what he is owed. He has now implemented a third-party cyber security company to prevent any data breaches again.
+										</section>
+      </div>
+	  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+      <div><h1 style=color:black;><big><b>References: </big></b></h1>
+        <section>
+									1. www.kaspersky.com. 2020. What Is Cyber Security?. [online] Available at: <https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security> [Accessed 11 October 2020].
+									<br><br>
+									2. Ecpi.edu. 2020. New Cybersecurity Technologies: What Is Shaking Up The Field?. [online] Available at: <https://www.ecpi.edu/blog/new-cybersecurity-technologies-what-is-shaking-up-the-field#:~:text=The%20cyber%20attackers%20are%20now,attacks%20to%20steal%20specific%20data> [Accessed 11 October 2020].
+									<br><br>
+									3. CyberDegrees.org. 2020. Hot Technologies In Cyber Security - Cyber Degrees. [online] Available at: <https://www.cyberdegrees.org/resources/hot-technologies-cyber-security/> [Accessed 11 October 2020].
+									<br><br>
+									4. Zetter, K., Barrett, B., Giordano, M. and Goodluck, K., 2020. Meet Monstermind, The NSA Bot That Could Wage Cyberwar Autonomously. [online] WIRED. Available at: <https://www.wired.com/2014/08/nsa-monstermind-cyberwarfare/> [Accessed 11 October 2020].
+								</section>
+								      </div>
+
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="copyright">
+    <p class="fl_left">Copyright &copy; 2014 - All Rights Reserved
+    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
+    <br class="clear" />
+  </div>
+</div>
+</body>
+</html>
